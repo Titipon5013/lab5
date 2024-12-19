@@ -2,14 +2,14 @@
 - (2)
 ![image](https://github.com/user-attachments/assets/6e062ea6-12b2-4a13-ac87-bc073328cfdf)
 
-- cd (folder name) (เข้าไปที่ directory ของ folder name)
-- cd . (directory อยู่ที่เดิม home/time)
-- cd .. (directory กลับไปที่ home)
-- cd ~ (directory กลับไปที่ home/time)
-- cd / (directory กลับไปที่เริ่มต้น /)
-- cd $ (ไม่ได้ตั้ง variable ไว้เลยไม่ขึ้น)
-- pwd (ระบุตำแหน่งของ directory)
-- mkdir (name) (สร้าง folder)
+  - cd (folder name) (เข้าไปที่ directory ของ folder name)
+  - cd . (directory อยู่ที่เดิม home/time)
+  - cd .. (directory กลับไปที่ home)
+  - cd ~ (directory กลับไปที่ home/time)
+  - cd / (directory กลับไปที่เริ่มต้น /)
+  - cd $ (ไม่ได้ตั้ง variable ไว้เลยไม่ขึ้น)
+  - pwd (ระบุตำแหน่งของ directory)
+  - mkdir (name) (สร้าง folder)
 
 
 
