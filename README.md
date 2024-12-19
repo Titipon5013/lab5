@@ -11,9 +11,9 @@
 - pwd (ระบุตำแหน่งของ directory)
 - mkdir (name) (สร้าง folder)
 
-- (3)
 
-3.1&3.2
+
+- 3.1&3.2
   ![image](https://github.com/user-attachments/assets/c9a0f39e-7cd4-480e-83df-f5ff63c8ad94)
 
 
